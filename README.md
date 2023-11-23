@@ -1,3 +1,7 @@
+# YouTube_Clone
+This is a YouTube Clone That is made using reactJs. It has almost all the features  that youtube has. Posting Video, Watching Video
+in real-time, Commenting and also it's UI is so beautiful.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
